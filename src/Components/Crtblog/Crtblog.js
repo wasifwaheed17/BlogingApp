@@ -1,6 +1,8 @@
+import { useRef } from "react";
 import React from 'react'
 import styles from "@/styles/Crtblog.module.css"
 import 'bootstrap/dist/css/bootstrap.css'
+
 
 const Crtblog = () => {
     return (
@@ -12,7 +14,7 @@ const Crtblog = () => {
             <div className="mb-3">
                 <textarea placeholder='What is in your mind?' className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
 
-                <button type="button" className={`${styles.bton} btn mt-4`}>Primary</button>
+                <button type="button" className={`${styles.bton} btn mt-4`}>submit</button>
 
             </div>
         </div>

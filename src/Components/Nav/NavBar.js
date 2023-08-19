@@ -7,7 +7,7 @@ const NavBar = () => {
     <>
       <nav className={styles.tul}>
         <div className={styles.ha}>
-          <h3 >Personal Bloging App</h3>
+          <h3  ><a className={styles.uy} href='/'>Personal Bloging App</a></h3>
         </div>
         <div className={styles.tulo}>
 
