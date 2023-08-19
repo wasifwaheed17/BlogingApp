@@ -1,0 +1,23 @@
+.mo{
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    padding: 30px;
+    border-radius: 5px;
+}
+.wq{
+    margin-top: 30px;
+    text-align: center;
+
+}
+.qa{
+    text-decoration: none;
+    color:  rgb(118, 45, 255);
+    
+}
+.qd{
+    padding-left: 20px;
+    text-decoration: none;
+    color:  rgb(118, 45, 255);
+   
+}

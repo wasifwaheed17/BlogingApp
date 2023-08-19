@@ -1,0 +1,23 @@
+.tul{
+    background-color: rgb(118, 45, 255);
+    display: flex;
+    align-items: center;
+    height: 50px;
+    color:white;
+
+}
+.ha{
+    padding-left: 60px;
+}
+.tulo{
+    
+    display: flex;
+    margin-left: 600px;
+}
+.wa{
+    padding-right: 50px;
+}
+.lin{
+    text-decoration: none;
+    color: white;
+}
